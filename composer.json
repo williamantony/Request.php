@@ -1,0 +1,19 @@
+{
+    "name": "wa/request",
+    "description": "Simple HTTP Request Handler",
+    "type": "library",
+    "version": "1.0.0-dev",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "William Antony",
+            "email": "william@pathadan.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "WA\\Request\\": "src/"
+        }
+    }
+}
