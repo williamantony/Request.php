@@ -1,8 +1,8 @@
 {
     "name": "wa/request",
     "description": "Simple HTTP Request Handler",
+    "version": "1.0.0",
     "type": "library",
-    "version": "1.0.0-dev",
     "license": "MIT",
     "authors": [
         {
